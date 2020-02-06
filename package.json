@@ -9,5 +9,9 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0"
   }
 }
