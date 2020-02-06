@@ -1,9 +1,13 @@
 {
   "name": "typescript-practice",
   "version": "1.0.0",
-  "description": "Practice for TypeScript",
+  "description": "Practice of TypeScript",
   "main": "index.html",
   "repository": "git@github.com:benius/typescript-practice.git",
   "author": "Mason Hsieh <benius@gmail.com>",
-  "license": "Apache 2.0"
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
 }
