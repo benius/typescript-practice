@@ -1,0 +1,9 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "Practice for TypeScript",
+  "main": "index.html",
+  "repository": "git@github.com:benius/typescript-practice.git",
+  "author": "Mason Hsieh <benius@gmail.com>",
+  "license": "Apache 2.0"
+}
